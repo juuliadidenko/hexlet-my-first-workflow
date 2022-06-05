@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: make say-hello
-      - uses: actions/checlout@v2
+      - uses: actions/checkout@v2
